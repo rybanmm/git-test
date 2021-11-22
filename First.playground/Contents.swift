@@ -9,3 +9,5 @@ var new = 2
 func one() {
     print("")
 }
+
+var coco = "Hello"
