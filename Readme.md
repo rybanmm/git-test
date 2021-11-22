@@ -13,3 +13,5 @@
 - <!--@START_MENU_TOKEN@-->``Symbol``<!--@END_MENU_TOKEN@-->
 
 "Hello World!"
+
+"Ok"
